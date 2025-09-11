@@ -1,0 +1,63 @@
+Initial Population: ['00111', '11101', '11100', '00010'] [7, -3, -4, 2]
+
+Generation 1
+x=7, bin=00111, fit=49, prob=0.628, exp_count=2.51
+x=-3, bin=11101, fit=9, prob=0.115, exp_count=0.46
+x=-4, bin=11100, fit=16, prob=0.205, exp_count=0.82
+x=2, bin=00010, fit=4, prob=0.051, exp_count=0.21
+
+Generation 2
+x=6, bin=00110, fit=36, prob=0.252, exp_count=1.01
+x=-9, bin=10111, fit=81, prob=0.566, exp_count=2.27
+x=-1, bin=11111, fit=1, prob=0.007, exp_count=0.03
+x=5, bin=00101, fit=25, prob=0.175, exp_count=0.70
+
+Generation 3
+x=7, bin=00111, fit=49, prob=0.253, exp_count=1.01
+x=6, bin=00110, fit=36, prob=0.186, exp_count=0.74
+x=3, bin=00011, fit=9, prob=0.046, exp_count=0.19
+x=-10, bin=10110, fit=100, prob=0.515, exp_count=2.06
+
+Generation 4
+x=6, bin=00110, fit=36, prob=0.199, exp_count=0.80
+x=6, bin=00110, fit=36, prob=0.199, exp_count=0.80
+x=3, bin=00011, fit=9, prob=0.050, exp_count=0.20
+x=-10, bin=10110, fit=100, prob=0.552, exp_count=2.21
+
+Generation 5
+x=6, bin=00110, fit=36, prob=0.132, exp_count=0.53
+x=-10, bin=10110, fit=100, prob=0.368, exp_count=1.47
+x=6, bin=00110, fit=36, prob=0.132, exp_count=0.53
+x=-10, bin=10110, fit=100, prob=0.368, exp_count=1.47
+
+Generation 6
+x=-10, bin=10110, fit=100, prob=0.351, exp_count=1.40
+x=-10, bin=10110, fit=100, prob=0.351, exp_count=1.40
+x=6, bin=00110, fit=36, prob=0.126, exp_count=0.51
+x=7, bin=00111, fit=49, prob=0.172, exp_count=0.69
+
+Generation 7
+x=-1, bin=11111, fit=1, prob=0.004, exp_count=0.02
+x=6, bin=00110, fit=36, prob=0.141, exp_count=0.56
+x=7, bin=00111, fit=49, prob=0.192, exp_count=0.77
+x=-13, bin=10011, fit=169, prob=0.663, exp_count=2.65
+
+Generation 8
+x=-13, bin=10011, fit=169, prob=0.643, exp_count=2.57
+x=3, bin=00011, fit=9, prob=0.034, exp_count=0.14
+x=7, bin=00111, fit=49, prob=0.186, exp_count=0.75
+x=6, bin=00110, fit=36, prob=0.137, exp_count=0.55
+
+Generation 9
+x=-10, bin=10110, fit=100, prob=0.254, exp_count=1.02
+x=7, bin=00111, fit=49, prob=0.124, exp_count=0.50
+x=7, bin=00111, fit=49, prob=0.124, exp_count=0.50
+x=-14, bin=10010, fit=196, prob=0.497, exp_count=1.99
+
+Generation 10
+x=7, bin=00111, fit=49, prob=0.103, exp_count=0.41
+x=6, bin=00110, fit=36, prob=0.075, exp_count=0.30
+x=-14, bin=10010, fit=196, prob=0.411, exp_count=1.64
+x=-14, bin=10010, fit=196, prob=0.411, exp_count=1.64
+
+Final Best Solution: -16 10000 fitness= 256
