@@ -1,0 +1,13 @@
+Particle Swarm Optimization for y = -x^2 + 5x + 20
+Enter minimum position bound (default 0): 1
+Enter maximum position bound (default 5): 
+Enter minimum velocity (default -1): -0.5
+Enter maximum velocity (default 1): 
+Enter number of particles (default 30): 20
+Enter number of iterations (default 100): 
+Enter inertia weight w (default 0.5): 0.6
+Enter cognitive coefficient c1 (default 1.5): 
+Enter social coefficient c2 (default 1.5): 2
+
+Best position found: 2.499999967035754
+Best fitness (maximized): 26.25
